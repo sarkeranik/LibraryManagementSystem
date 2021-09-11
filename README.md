@@ -1,5 +1,5 @@
 # A small Book Management in Library Management System
-It's an small project on Book Management. Build With ASP.NET 5, JWT athentication and some other great features. 
+It's an small project on Book Management. Build With ASP.NET 5, JWT authentication and some other great features. 
 
 <strong>Features implemented :</strong>
 
@@ -15,3 +15,5 @@ It's an small project on Book Management. Build With ASP.NET 5, JWT athenticatio
 
 # To setup the project in your local download the repo, clear the build files, rebuild and run. 
 -- Athenticate with "/api/Books/authenticate" endpoint with Username = "test", Password = "test"
+-- Copy the response token and paste it on Swagger Authorise field.
+-- Use the endpoint.
