@@ -14,6 +14,6 @@ It's an small project on Book Management. Build With ASP.NET 5, JWT authenticati
 
 
 # To setup the project in your local download the repo, clear the build files, rebuild and run. 
--- Athenticate with "/api/Books/authenticate" endpoint with Username = "test", Password = "test"
--- Copy the response token and paste it on Swagger Authorise field.
--- Use the endpoint.
+-- Athenticate with "/api/Books/authenticate" endpoint with Username = "test", Password = "test". </br>
+-- Copy the response token and paste it on Swagger Authorise field.</br>
+-- Use the endpoint.</br>
